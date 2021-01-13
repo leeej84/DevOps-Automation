@@ -4,10 +4,10 @@ parameters:
 - name: winver
   displayName: "Windows Version to build"
   type: string
-  default: "2019-Datacenter"
+  default: "20h2-evd"
   values:
-    - "2016-Datacenter"
-    - "2019-Datacenter"
+    - "20h2-evd"
+    - "20h2-ent"
 - name: vhdname
   displayName: "Name of gold image VHD"
   type: string
