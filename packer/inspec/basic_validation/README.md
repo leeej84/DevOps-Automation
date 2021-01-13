@@ -1,1 +1,1 @@
-# Super Basic Inspec Profile
+# Basic Inspec Profile

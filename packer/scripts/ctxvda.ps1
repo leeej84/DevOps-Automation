@@ -1,5 +1,4 @@
 #Installs Citrix VDA from a Storage Account
-#Ryan Butler TechDrabble.com @ryan_c_butler 10/03/2020
 
 $filename = $env:vda
 $UnattendedArgs = "/quiet /optimize /components vda /controllers '$env:vdacontrollers' /enable_remote_assistance /enable_hdx_ports /enable_real_time_transport /virtualmachine /noreboot /noresume /logpath 'C:\Windows\Temp\VDA' /masterimage"

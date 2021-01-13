@@ -1,4 +1,4 @@
-# 2020, Simple checks for Windows Golden Image (Ryan Butler @ryan_c_butler)
+# 2020, Simple checks for Windows Golden Image
 
 control 'windows-001' do
 	title 'OS Check'

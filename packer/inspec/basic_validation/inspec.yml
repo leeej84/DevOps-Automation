@@ -1,10 +1,9 @@
 name: basic_validation
 title: InSpec Profile
-maintainer: Ryan Butler
-copyright: Ryan Butler
-copyright_email: ryan@techdrabble.com
-license: Apache-2.0
-summary: A Simple InSpec Compliance Profile
+maintainer: Leee Jeffries
+copyright: Leee Jeffries
+copyright_email: leee.jeffries@leeejeffries.com
+summary: InSpec Compliance Profile
 version: 0.1.0
 supports:
  - platform-family: windows

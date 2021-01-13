@@ -1,5 +1,5 @@
 ﻿#Installs Citrix Optimizer from a Storage Account and runs with default settings
-#Ryan Butler TechDrabble.com @ryan_c_butler 10/03/2020
+
 $ErrorActionPreference="Stop"
 $filename = "CitrixOptimizer.zip"
 $filepath = "$($env:SystemRoot)\temp"
