@@ -4,9 +4,6 @@ Use an Azure DevOps pipeline to deploy a Windows VDA using HashiCorp Packer.  Th
 <<<<<<< HEAD
 ## Prerequisite
 You'll need the follwing pre-reqs before getting started.
-=======
-This repo is based on Ryan Butlers Converge presentation.
->>>>>>> d7ed2b352c50b080625cbc8302d84bcd2bccffad
 
 ### Azure DevOps
 - Account 
