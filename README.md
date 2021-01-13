@@ -24,10 +24,10 @@ Follow the below process to build a Windows 10 VDA
 
 1. From Azure DevOps. Select Repos
 2. Import a Git repository
-    - https://github.com/ryancbutler/converge-2020
+    - https://github.com/leeej84/DevOps-Automation
 3. From Pipelines create new
     - Select "Azure Repos Git"
-    - Select imported repo (eg Converge2020)
+    - Select imported repo
     - Existing Azure Pipelines YAML file
     - Select `/pipeline.yml`
     - Select Variables and add the below table
